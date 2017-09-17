@@ -1,24 +1,22 @@
-# My first cool idea {#slug-one}
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Predicting Investment Decisions from Crowdsourced Recommendations  {#crowdsourced-investing}
 
 #### Keywords
 
-yaba, daba, do
+Invest, Crowdsource, Decentralize, Value, Valuation
 
 ## A beginning.
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+The decision making and organizational design of the discretionary hedge fund are under attack. A large portion of the industry relies on broken, pre-internet strategies that are too slow--most mispricings are quickly identified and corrected by the wide swath of factor mining algorithms that can make quicker and less biased decisions than can a portfolio manager. As a result, "quant" funds have outperformed discretionary funds in recent years. Numerous discretionary funds are throwing money at big data and machine learning in an effort to stay competitive, but this pursuit creates a deluge of new information that will serve more to inundate the portfolio manager than to inform investment decisions.
 
 ## A middle.
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
-
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
-
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+To solve the problem, we can use a portfolio manager's opinion not as the ultimatum, but as a feature in a broader dataset. To replicate this situation, we will turn to exclusive online investment forums where users post lengthy "pitches" to buy or short a stock. Through the combination of traditional valuation techniques, natural language processing, and the wisdom of the crowd, we can incorporate fundamental investment data and opinion into a systematic investment decision pipeline. In this pipeline, a proprietary algorithm will crawl through submitted investment pitches, extract topics, and evaluate each user's write-up for sentiment, objectivity, and key-word weightings. However, in the face of new facts, positions need to be re-evaluated. Constant calibration comes in the form of community feedback and discussion. Each time a user comments or rates an investment idea, the algorithm incorporates the feedback into the decision making process, re-evaluating the probability of success for a given investment idea.
 
 ## An end.
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+This solution should effectively operationalize a portfolio manger's opinion, removing any cognitive biases he or she might have while also providing a clear picture of which information is important to the investment decision making process. If a portfolio manager makes the final decision, we lack this key information of seeing why a certain decision may have been made. In crowdsourcing investment recommendations, we pull from a larger net of ideas and ensure a larger diversity of thought. With all of these slight tweaks to the typical discretionary investment decision, we should be able to amplify returns, on average. Difficulties arise due to a lack of data around "exotic" investments (special situations, debt, M&A, warrants, etc.) that are typical of succesful investment ideas in the discretionary community.
