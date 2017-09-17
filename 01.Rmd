@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Predicting Investment Decisions from Crowdsourced Recommendations  {#crowdsourced-investing}
 
 #### Keywords
