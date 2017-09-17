@@ -6,7 +6,7 @@ Invest, Crowdsource, Decentralize, Value, Valuation
 
 ## A beginning.
 
-The decision making and organizational design of the discretionary hedge fund are under attack. A large portion of the industry relies on broken, pre-internet strategies that are too slow--most mispricings are quickly identified and corrected by the wide swath of factor mining algorithms that can make quicker and less biased decisions than can a portfolio manager. As a result, "quant" funds have outperformed discretionary funds in recent years. Numerous discretionary funds are throwing money at big data and machine learning in an effort to stay competitive, but this pursuit creates a deluge of new information that will serve more to inundate the portfolio manager than to inform investment decisions.
+The decision making process and organizational design of the discretionary hedge fund are under attack. A large portion of the industry relies on broken, pre-internet strategies that are too slow--most mispricings are quickly identified and corrected by the wide swath of factor mining algorithms that can make quicker and less biased decisions than can a portfolio manager. As a result, "quant" funds have outperformed discretionary funds in recent years. Numerous discretionary funds are throwing money at big data and machine learning in an effort to stay competitive, but this pursuit creates a deluge of new information that will serve more to inundate the portfolio manager than to inform investment decisions.
 
 ## A middle.
 
