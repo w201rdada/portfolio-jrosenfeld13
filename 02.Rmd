@@ -1,25 +1,20 @@
-# My second cool idea {#slug-two}
-
+# Computer Vision Systems and Analysis for Prison Safety {#prison-safety}
 #### Keywords
-
-yaba, daba, do
+Computer-vision, Prison, Corrections, Safety, Predict, Assault
 
 ## A beginning.
-
-Nulla  sint  art party ex, mlkshk disrupt selvage 90's.  Umami sed slow-carb, fugiat  dolore nihil glossier magna migas actually farm-to-table microdosing keytar fixie.  IPhone fashion axe pinterest, cardigan street art quinoa banh mi bitters mollit  commodo pok pok culpa  delectus ut air plant.  Offal edison bulb ex, celiac 8-bit vaporware polaroid thundercats flannel kickstarter labore.  Activated charcoal portland af tousled microdosing woke, in  thundercats consectetur gluten-free hammock duis  next level DIY.  Keffiyeh commodo velit  mollit  brunch, cronut edison bulb banh mi swag stumptown crucifix hell of.  Brunch williamsburg try-hard, seitan literally vexillologist venmo DIY pariatur nesciunt master cleanse XOXO.
+Physical and sexual assault run rampant in correctional facilities. In the U.S., approximately 21% of male inmates are physically assaulted during a 6-month period. Between 1999 through 2008, roughly 47,500 correctional officers had been the victim of an assault or violent act. It's no surprise that response-times to critical situations can be the difference between life and death in a correctional facility. Prisons take several measures to limit violence including gang research, officer training, and psychological screening; while these measures are critical, they are also expensive and time consuming. The cat-and-mouse game between officers and inmates will likely continue, but facility managers are always looking for new tools to optimize their resource pool and prevent mishaps.
 
 ## A middle.
+To help solve the problem, can we leverage recent advancements in computer vision to further monitor, prevent, and predict prison and inmate activities? In real-time, computer-vision algorithms can detect faces, heart rates, gestures, behavioral patterns, and other suspicious movements. Detection systems can alert prison staff to respond to problems as they occur. Correctional facility administrators can later utilize the spatially-mapped data to optimize prison layouts and staff locations while reducing/identifying blind-spots for further preventative measures.
 
-8-bit synth irony nisi wolf, street art dreamcatcher flannel placeat selvage health goth sriracha.  Glossier labore ex venmo, cillum  live-edge jianbing everyday carry af cray laborum incididunt eiusmod jean shorts.  Normcore slow-carb lyft letterpress, beard tilde art party.  Poke marfa incididunt tempor duis.  Iceland fam ex beard, activated charcoal vaporware nesciunt lyft cronut four dollar toast irony.  Officia  stumptown voluptate  unicorn culpa  bushwick.  Mollit  vero af marfa deserunt  flexitarian.
-
-
-```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
-```
-
-
-Laborum williamsburg sunt whatever, DIY reprehenderit  retro vaporware id  hella flannel sartorial vero fugiat  before they sold out.  Copper mug salvia keffiyeh, neutra nostrud iceland keytar kogi church-key quinoa ramps mlkshk.  Seitan mollit  3 wolf moon, forage shabby chic cillum  church-key tofu exercitation aliquip.  Church-key distillery flexitarian meh incididunt retro, ugh wolf selvage hashtag.  Bicycle rights 90's officia  vape.  Listicle post-ironic vape ex.  Gluten-free lomo tumeric, yuccie everyday carry tempor put a bird on it knausgaard nisi ugh skateboard VHS.
+Most facilities already have an extensive CCTV network of cameras in place. A simple rollout of our software on top of existing infrastructure will come complete with a new dashboard, computer-vision algorithms, alerts, and spatial-mapping abilities and analysis. Facility managers and officers will be trained to use all aspects of the program.
 
 ## An end.
+The use of this technology should unequivocally have a positive impact on increasing productivity while reducing prison violence and misconduct. As this technology proliferates through correctional facilities, privacy concerns may arise in the general public--only a few simple tweaks would be necessary to move these systems out into city streets. In a correctional facility--even where our privacy concerns are minimized--it is paramount that we engage in debate to understand the extent to which inmates, officers, and the public feel the technology should be utilized. The outcome of these discussions can pave the way for proper management of a computer-vision system which can have a large, positive effect on minimizing costs and reducing prison violence, helping to ensure the safety of all.
 
-Kombucha pok pok lomo, forage bicycle rights paleo kickstarter literally.  Hot chicken dolor  vegan accusamus master cleanse tousled, yuccie cliche retro aesthetic bushwick actually.  Ennui viral VHS pitchfork pop-up cornhole, nihil quinoa scenester gentrify occaecat  YOLO anim.  Umami copper mug live-edge, air plant meditation bushwick chartreuse adipisicing tousled.  Art party affogato chicharrones, photo booth enim swag vero meh seitan +1 activated charcoal nihil.  Etsy gluten-free authentic mixtape.  Shabby chic duis  90's pop-up pinterest, lumbersexual mollit  cillum.
+References:
+
+Contextualization of Physical and Sexual Assault in Male Prisons: Incidents and Their Aftermath, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2811042/
+
+U.S. Correctional Officers Killed or Injured on the Job http://www.aca.org/ACA_PROD_IMIS/Docs/Corrections%20Today/2013%20Articles/November%20Articles/Research%20Notes.pdf
