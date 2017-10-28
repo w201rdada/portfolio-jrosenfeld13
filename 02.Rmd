@@ -2,15 +2,15 @@
 #### Keywords
 Computer-vision, Prison, Corrections, Safety, Predict, Assault
 
-## A beginning.
+## The Problem.
 Physical and sexual assault run rampant in correctional facilities. In the U.S., approximately 21% of male inmates are physically assaulted during a 6-month period. Between 1999 through 2008, roughly 47,500 correctional officers had been the victim of an assault or violent act. It's no surprise that response-times to critical situations can be the difference between life and death in a correctional facility. Prisons take several measures to limit violence including gang research, officer training, and psychological screening; while these measures are critical, they are also expensive and time consuming. The cat-and-mouse game between officers and inmates will likely continue, but facility managers are always looking for new tools to optimize their resource pool and prevent mishaps.
 
-## A middle.
+## The Solution.
 To help solve the problem, can we leverage recent advancements in computer vision to further monitor, prevent, and predict prison and inmate activities? In real-time, computer-vision algorithms can detect faces, heart rates, gestures, behavioral patterns, and other suspicious movements. Detection systems can alert prison staff to respond to problems as they occur. Correctional facility administrators can later utilize the spatially-mapped data to optimize prison layouts and staff locations while reducing/identifying blind-spots for further preventative measures.
 
 Most facilities already have an extensive CCTV network of cameras in place. A simple rollout of our software on top of existing infrastructure will come complete with a new dashboard, computer-vision algorithms, alerts, and spatial-mapping abilities and analysis. Facility managers and officers will be trained to use all aspects of the program.
 
-## An end.
+## Moving Forward.
 The use of this technology should unequivocally have a positive impact on increasing productivity while reducing prison violence and misconduct. As this technology proliferates through correctional facilities, privacy concerns may arise in the general public--only a few simple tweaks would be necessary to move these systems out into city streets. In a correctional facility--even where our privacy concerns are minimized--it is paramount that we engage in debate to understand the extent to which inmates, officers, and the public feel the technology should be utilized. The outcome of these discussions can pave the way for proper management of a computer-vision system which can have a large, positive effect on minimizing costs and reducing prison violence, helping to ensure the safety of all.
 
 References:
