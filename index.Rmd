@@ -1,7 +1,7 @@
 ---
 title: "W201 Portfolio"
-author: "Oski Bear"
-date: "MIDS Summer 2017"
+author: "Jason Rosenfeld"
+date: "MIDS Fall 2017"
 site: bookdown::bookdown_site
 documentclass: book
 ---
@@ -27,17 +27,13 @@ Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland 
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Abstract of my first cool idea
+### Abstract of my first idea
 
-Pop-up occupy labore, pug tofu nisi franzen YOLO tilde tumblr deep v nulla  aliqua.  Sapiente stumptown et lo-fi art party.  Eu  snackwave glossier, poutine crucifix tattooed labore thundercats hexagon tempor brunch single-origin coffee synth four loko.  Velit  beard ex etsy migas, tempor hashtag.  Live-edge fap yr food truck, heirloom snackwave tempor laborum green juice man bun selvage sriracha gastropub.  Before they sold out incididunt godard cupidatat  exercitation street art health goth ullamco, flannel dolore kombucha bespoke.  Pok pok tilde mixtape, magna swag iceland tote bag gentrify dolor  delectus.
+The decision-making process and organizational design of the discretionary hedge fund are under attack. A large portion of the industry relies on broken strategies that are too slow—most equity mispricings are quickly identified and corrected by the wide swath of factor mining algorithms that can make quicker and less biased decisions than can a portfolio manager.  To solve the problem, we can use a portfolio manager's opinion not as the ultimatum, but as a feature in a broader dataset. Through the combination of traditional valuation techniques, natural language processing, and the wisdom of the crowd, we can incorporate fundamental investment data and portfolio managers’ opinions into a systematic investment decision pipeline. This solution should effectively operationalize an analyst’s investment pitch, tracking and removing any cognitive biases he or she might have, while also providing a clear picture of which information is important to the investment decision making process.
 
-### Abstract of my second cool idea
+### Abstract of my second idea
 
-Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
-  
-### Abstract of my third cool idea
-
-Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
+Physical and sexual assault run rampant in correctional facilities. Prisons take several measures to limit violence including gang research, officer training, and psychological screening; while these measures are critical, they are also expensive and time consuming. To further limit violence, can we leverage recent advancements in computer vision to monitor, prevent, and predict prison and inmate activities? Detection systems can alert prison staff to respond to problems as they occur and learn behaviors that may be predictive of impending incidents. In an analytical setting, correctional facility administrators can later utilize spatially-mapped data to optimize prison layouts and staff locations while reducing/identifying blind-spots for further preventative measures. It is paramount that we engage in debate to understand the extent to which inmates, officers, and the public feel the technology should be utilized. The outcome of these discussions can pave the way for proper management of a computer-vision system which can have a large, positive effect on minimizing costs and reducing prison violence, helping to ensure the safety of all.
 
 ## About the author
 
