@@ -2,17 +2,17 @@
 #### Keywords
 Computer-vision, Prison, Corrections, Safety, Predict, Assault
 
-## The Problem.
+## Prisons have a problem.
 Physical and sexual assault run rampant in correctional facilities. In the U.S., approximately 21% of male inmates are physically assaulted during a 6-month period.<sup>1</sup> Further, between 1999 through 2008, roughly 47,500 correctional officers had been the victim of an assault or violent act.<sup>2</sup> It's no surprise that response-times to critical situations can be the difference between life and death in a correctional facility. Prisons take several measures to limit violence including gang research, officer training, and psychological screening; while these measures are critical, they are also expensive and time consuming. While the cat-and-mouse game between officers and inmates may never end, facility managers are always looking for new tools to diminish its prevalence.
 
-## The Solution.
+## Computer vision is getting smarter.
 To help solve the problem, can we leverage recent advancements in computer vision to further monitor, prevent, and predict prison and inmate activities? Detection systems can alert prison staff to respond to problems as they occur and learn behaviors that may be predictive of impending incidents.  In real-time, computer-vision algorithms can detect faces, heart rates, gestures, behavioral patterns, and other suspicious movements of all inmates. While individuals can be detected and tracked, so too can groups. A "social network" can be constructed to identify gangs and detect large gatherings of members.
 
 In an analytical setting, correctional facility administrators can later utilize the spatially-mapped data to optimize prison layouts and staff locations while reducing/identifying blind-spots for further preventative measures. Specifically, patterns will emerge over time around when and where certain behavior occurs, where staffing weaknesses arise, and where "hot spots" tend to cluster; this data can be used to influence existing/future architectural decisions and optimize staff rotations.
 
 Most facilities already have an extensive CCTV network of cameras in place. A simple rollout of our software on top of existing infrastructure will come complete with a new dashboard, computer-vision algorithms, alerts, and spatial-mapping abilities and analysis. Facility managers and officers will be trained to use all aspects of the program. Similar use of computer-vision has been applied in areas with extensive surveillance already in place, like casinos and airports. Although the technology is still nascent, success in these adjacent industries proves the project's viability.
 
-## Moving Forward.
+## Safety and efficiency.
 The use of this technology should unequivocally have a positive impact on increasing productivity while reducing prison violence and misconduct. Indirect economic benefits should also arise: a safer prison environment translates to reduced medical costs, less officer turnover, and reduced hiring/training costs. 
 
 As this technology proliferates through correctional facilities, privacy concerns may arise in the general public--only a few simple tweaks would be necessary to move these systems out into city streets. In a correctional facility--even where our privacy concerns are minimized--it is paramount that we engage in debate to understand the extent to which inmates, officers, and the public feel the technology should be utilized. The outcome of these discussions can pave the way for proper management of a computer-vision system which can have a large, positive effect on minimizing costs and reducing prison violence, helping to ensure the safety of all.

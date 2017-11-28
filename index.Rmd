@@ -15,17 +15,22 @@ library(magrittr)
 # Welcome! {-}
 
 Welcome to the portfolio.
+<!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
+<p>
+```{r in-summary, echo=FALSE, fig.cap='In Summary!', fig.align='center'}
+knitr::include_url('https://drive.google.com/file/d/VIDEONUMBER/preview')
+```
 
-### Abstract of my first idea
-
-The decision-making process and organizational design of the discretionary hedge fund are under attack. A large portion of the industry relies on broken strategies that are too slow—most equity mispricings are quickly identified and corrected by the wide swath of factor mining algorithms that can make quicker and less biased decisions than can a portfolio manager.  To solve the problem, we can use a portfolio manager's opinion not as the ultimatum, but as a feature in a broader dataset. Through the combination of traditional valuation techniques, natural language processing, and the wisdom of the crowd, we can incorporate fundamental investment data and portfolio managers’ opinions into a systematic investment decision pipeline. This solution should effectively operationalize an analyst’s investment pitch, tracking and removing any cognitive biases he or she might have, while also providing a clear picture of which information is important to the investment decision making process.
-
-### Abstract of my second idea
+### Computer Vision Systems and Analysis for Prison Safety - Abstract
 
 Physical and sexual assault run rampant in correctional facilities. Prisons take several measures to limit violence including gang research, officer training, and psychological screening; while these measures are critical, they are also expensive and time consuming. To further limit violence, can we leverage recent advancements in computer vision to monitor, prevent, and predict prison and inmate activities? Detection systems can alert prison staff to respond to problems as they occur and learn behaviors that may be predictive of impending incidents. In an analytical setting, correctional facility administrators can later utilize spatially-mapped data to optimize prison layouts and staff locations while reducing/identifying blind-spots for further preventative measures. It is paramount that we engage in debate to understand the extent to which inmates, officers, and the public feel the technology should be utilized. The outcome of these discussions can pave the way for proper management of a computer-vision system which can have a large, positive effect on minimizing costs and reducing prison violence, helping to ensure the safety of all.
 
+### Predicting Investment Decisions from Crowdsourced Recommendations - Abstract
+
+The decision-making process and organizational design of the discretionary hedge fund are under attack. A large portion of the industry relies on broken strategies that are too slow—most equity mispricings are quickly identified and corrected by the wide swath of factor mining algorithms that can make quicker and less biased decisions than can a portfolio manager.  To solve the problem, we can use a portfolio manager's opinion not as the ultimatum, but as a feature in a broader dataset. Through the combination of traditional valuation techniques, natural language processing, and the wisdom of the crowd, we can incorporate fundamental investment data and portfolio managers’ opinions into a systematic investment decision pipeline. This solution should effectively operationalize an analyst’s investment pitch, tracking and removing any cognitive biases he or she might have, while also providing a clear picture of which information is important to the investment decision making process.
+
 ## About the author {-}
 
-Jason is a Berkeley MIDS student.
+Jason is a full-time Berkeley MIDS student. He is currently interning at Millennium Management. He has previously worked in equity research and has a B.A. in Mathematical Economics from Colgate university.
 
 *Updated: `r Sys.Date()`*

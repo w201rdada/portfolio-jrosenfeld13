@@ -1,17 +1,17 @@
 # Predicting Investment Decisions from Crowdsourced Recommendations  {#crowdsourced-investing}
 
-#### Keywords
+#### Keywords {-}
 
 Invest, Crowdsource, Decentralize, Value, Valuation
 
-## A beginning.
+## Hedge funds are underperforming.
 
 The decision making process and organizational design of the discretionary hedge fund are under attack. A large portion of the industry relies on broken, pre-internet strategies that are too slow--most mispricings are quickly identified and corrected by the wide swath of factor mining algorithms that can make quicker and less biased decisions than can a portfolio manager. As a result, "quant" funds have outperformed discretionary funds in recent years. Numerous discretionary funds are throwing money at big data and machine learning in an effort to stay competitive, but this pursuit creates a deluge of new information that will serve more to inundate the portfolio manager than to inform investment decisions.
 
-## A middle.
+## Leverage the wisdom of the crowd.
 
 To solve the problem, we can use a portfolio manager's opinion not as the ultimatum, but as a feature in a broader dataset. To replicate this situation, we will turn to exclusive online investment forums where users post lengthy "pitches" to buy or short a stock; a few examples of these forums include Value Investors Club and SumZero. Through the combination of traditional valuation techniques, natural language processing, and the wisdom of the crowd, we can incorporate fundamental investment data and opinion into a systematic investment decision pipeline. In this pipeline, a proprietary algorithm will crawl through submitted investment pitches and determine each idea's probability of outperformance based on the language incorporated into the write-up (including sentiment, objectivity, topic modeling, and key-word weightings), financial data, macro/current events and user "credibility," or accuracy based on past decisions. However, in the face of new facts, positions need to be re-evaluated. Constant calibration comes in the form of community feedback and discussion. Each time a user comments or rates an investment idea, the algorithm incorporates the feedback into the decision making process, re-evaluating the probability of success for a given investment idea.
 
-## An end.
+## Optimize returns.
 
 This solution should effectively operationalize a portfolio manger's opinion, removing any cognitive biases he or she might have while also providing a clear picture of which information is important to the investment decision making process. If a portfolio manager makes the final decision, we lack this key information of seeing why a certain decision may have been made. In crowdsourcing investment recommendations, we pull from a larger net of ideas and ensure a larger diversity of thought. With all of these slight tweaks to the typical discretionary investment decision, we should be able to amplify returns, on average. Difficulties arise due to a lack of data around "exotic" investments (special situations, debt, M&A, warrants, etc.) that are typical of successful investment ideas in the discretionary community. Additional care will need to be taken to safeguard against stock pumping and insider trading.
