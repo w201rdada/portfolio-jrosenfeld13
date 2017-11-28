@@ -1,5 +1,5 @@
 # Computer Vision Systems and Analysis for Prison Safety {#prison-safety}
-#### Keywords
+#### Keywords {-}
 Computer-vision, Prison, Corrections, Safety, Predict, Assault
 
 ## Prisons have a problem.
